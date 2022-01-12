@@ -54,6 +54,7 @@
 ## リンク
 
 - [国高地区 地域安全 キッズセーフマップ](https://code4fukui.github.io/kunitaka/kidssafe.html)
+- [越前市役所](https://www.city.echizen.lg.jp/)
 - [Code for FUKUI](https://code4fukui.github.io/)
 
 
