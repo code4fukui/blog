@@ -50,3 +50,10 @@
   ![2021-09-22-otayori](2021-09-22-otayori.jpg)   
 
 ***
+
+## リンク
+
+- [国高地区 地域安全 キッズセーフマップ](https://code4fukui.github.io/kunitaka/kidssafe.html)
+- [Code for FUKUI](https://code4fukui.github.io/)
+
+
