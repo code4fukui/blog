@@ -17,4 +17,4 @@ This repository contains the code for a blog focused on the Kunitaka Kids Safe M
 The project utilizes open data sources for some map features.
 
 ## License
-No license information provided.
+MIT License — see [LICENSE](LICENSE).
